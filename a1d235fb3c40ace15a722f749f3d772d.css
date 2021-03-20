@@ -1,0 +1,52 @@
+/************************
+ GLOBAL
+ ************************/
+@import url('css2.css');
+.content{
+    background: var(--prl-img-globos);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.pwp_style .survey_button.bq{
+    background-color: #2ab27b;
+    border-color: #2ab27b;
+    color: #fff;
+}
+.header_flex_item{
+    color: black;
+    text-shadow: 2px 2px 4px yellow;
+}
+/************************
+ CONTENT 1
+ ************************/
+#content1 {
+    background: var(--prl-img-pasteles);
+    background-size: contain;
+    background-repeat: repeat;
+}
+#content1 h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px orange;
+}
+#content1 p{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+#content1 .main-content{
+    background: white;
+}
+.giftcard_div_img{
+    width: 50%;
+}
+/************************
+ CONTENT 2
+ ************************/
+
+/************************
+ CONTENT 3
+ ************************/
+
